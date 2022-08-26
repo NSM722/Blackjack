@@ -12,4 +12,5 @@ Cards 2-10 have face value; King, Queen, Jack are worth 10; and the Aces in this
 
 To deal again just click the **NEW CARD** button
 
-Try the game out on this link [Blackjack]("https://nsm722.github.io/Blackjack/")
+Try the game out on mz github pages [Blackjack Game](https://nsm722.github.io/Blackjack/ "Blackjack Game")
+
