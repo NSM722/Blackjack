@@ -1,0 +1,41 @@
+/* Colour Variables */
+:root {
+    --white-font: white;
+    --header1: #F3FE39;
+    --button-font: #24574E;
+    --red-font: red;
+    --blue-font: skyblue;
+}
+
+/* Styles */
+body {
+    font-family: 'Permanent Marker', 'Caveat', 'Inter', cursive;
+    background-image: url("images/table.png");
+    background-size: cover;
+    font-weight: bold;
+    color: var(--white-font);
+    text-align: center;
+    font-size: 37px;
+}
+
+h1 {
+    color: var(--header1);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: var(--button-font);
+    width: 300px;
+    background: var(--header1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    cursor: pointer;
+}
